@@ -9,7 +9,7 @@ namespace CodingBegin
 
         static void Main(string[] args)
         {
-            HandleInput();
+            HandleInput();//
             ProcessInput();
             OutputResults();
         }
